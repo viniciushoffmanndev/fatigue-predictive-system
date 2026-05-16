@@ -1,3 +1,26 @@
-﻿__pycache__/
+﻿# Byte-compiled / optimized / DLL files
+__pycache__/
 *.pyc
+*.pyo
+*.pyd
+
+# Caches e arquivos temporários
 .pytest_cache/
+.cache/
+.ipynb_checkpoints/
+
+# Ambientes Virtuais (Essencial para não subir o venv!)
+venv/
+.venv/
+env/
+ENV/
+
+# Arquivos do Sistema e IDEs
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+
+# Modelos e datasets muito pesados (opcional, caso fiquem gigantes)
+*.pkl
+# data-science-core/notebooks/telemetry_fatigue_dataset.csv
