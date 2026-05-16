@@ -1,0 +1,27 @@
+# ==============================================================================
+# Requirements for Advanced Fatigue Predictive System (AFPS)
+# Target Environment: Python 3.13.5
+# Architecture: Data Science Core, Backend API, and Dashboard App
+# ==============================================================================
+
+# Data Science Core & Machine Learning
+pandas>=2.2.3
+numpy>=2.1.0
+scikit-learn>=1.5.2
+xgboost>=2.1.1
+scipy>=1.14.1
+
+# Backend API (FastAPI Stack)
+fastapi>=0.115.0
+uvicorn[standard]>=0.31.0
+pydantic>=2.9.2
+python-multipart>=0.0.12
+
+# Dashboard App & Data Visualization
+streamlit>=1.39.0
+matplotlib>=3.9.2
+seaborn>=0.13.2
+requests>=2.32.3
+
+# Utilities & Environment Management
+python-dotenv>=1.0.1
