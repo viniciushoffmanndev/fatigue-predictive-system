@@ -43,6 +43,11 @@ O ecossistema foi desenvolvido inteiramente utilizando o ecossistema moderno do 
 
 ---
 
+[sistema-preditivo-de-fadiga.webm](https://github.com/user-attachments/assets/9c21af42-f5cd-4e0d-bd58-dd7a91e24e81)
+
+
+---
+
 ## 🚀 Como Executar o Projeto Localmente
 
 ### Pré-requisitos
